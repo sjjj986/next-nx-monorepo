@@ -58,5 +58,10 @@
       }
     }
   },
-  "tags": []
+  "tags": [],
+  "overrides": {
+    "@nrwl/next": {
+      "next": "$next"
+    }
+  }
 }
