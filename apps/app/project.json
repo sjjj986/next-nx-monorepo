@@ -57,11 +57,5 @@
         "lintFilePatterns": ["apps/app/**/*.{ts,tsx,js,jsx}"]
       }
     }
-  },
-  "tags": [],
-  "overrides": {
-    "@nrwl/next": {
-      "next": "$next"
-    }
   }
 }
